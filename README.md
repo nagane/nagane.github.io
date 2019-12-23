@@ -23,11 +23,11 @@
     - 直近のメイン業務。アップデートに関しても日次で公式情報に目を通すよう心掛けている
   - GCP
     - 機能に対応したAWSサービスが分かる程度
-    - かっこ時代で業務として利用してはいる
+    - かっこ時代で業務として少し利用
 - infrastructure as code
   - AWS CDK
     - 直近で下記のリソースの定義を作成
-      - ECS/ECR/CloudFront/S3/ALB/Cognit/Route53
+      - ECS/ECR/CloudFront/S3/ALB/Cognit/Route53/code series
   - CloudFormation
     - 直近のプロダクトのリソース管理に利用
   - Ansible
